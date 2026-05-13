@@ -1,6 +1,6 @@
 # Praxichnology: Naming the Field That Reads Footprints in Designed Environments — From Serious Games to AI
 
-**Author:** Christian Sebastian Loh¹
+**Author:** Christian S. Loh, Ph.D.¹
 
 ¹ Southern Illinois University, Carbondale, IL, USA
 
@@ -8,9 +8,9 @@
 
 **Preprint version 1.0** · Filed 2026-05-06 · License: CC-BY 4.0
 
-**Zenodo:** [https://doi.org/10.5281/zenodo.20148906](https://doi.org/10.5281/zenodo.20148906)
+**Zenodo:** [https://doi.org/10.5281/zenodo.20148907](https://doi.org/10.5281/zenodo.20148907)
 
-**GitHub:** [https://github.com/praxichnology](https://gothub.com/praxichnology) 
+**GitHub:** [https://github.com/praxichnology](https://github.com/praxichnology) 
 
 ---
 
