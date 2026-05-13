@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render preprint_draft_v2.md to a print-ready HTML file.
+"""Render praxichnology_v1.md to a print-ready HTML file.
 
 Open the resulting HTML in Chrome/Edge and use Ctrl+P -> "Save as PDF"
 (set margins to "Default" and disable headers/footers for a clean preprint).
@@ -9,8 +9,8 @@ from pathlib import Path
 
 import markdown
 
-SRC = Path(__file__).parent / "preprint_draft_v2.md"
-OUT = Path(__file__).parent / "preprint_draft_v2.html"
+SRC = Path(__file__).parent / "praxichnology_v1.md"
+OUT = Path(__file__).parent / "praxichnology_v1.html"
 
 NBSP = " "
 EM_DASH = "—"

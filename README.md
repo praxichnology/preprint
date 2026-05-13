@@ -31,7 +31,7 @@ https://doi.org/10.5281/zenodo.20148906
 
 ## Files
 
-- `preprint_draft_v2.md` — canonical source (Markdown)
+- `praxichnology_v1.md` — canonical source (Markdown)
 - `praxichnology_v1.pdf` — rendered PDF (the version submitted to EdArXiv and Zenodo)
 - `praxichnology.mp3` — audio pronunciation guide for the term *praxichnology*
 - `render_pdf.py` — script used to render the PDF from Markdown (reproducibility)
