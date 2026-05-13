@@ -6,28 +6,13 @@ Source files and rendered artifact for:
 
 ## How to cite
 
-**In journal papers** — cite the version DOI (citation integrity: the reader lands on the exact text you read):
-
 ```
 Loh, C. S. (2026). Praxichnology: Naming the field that reads footprints in
 designed environments — from serious games to AI [Preprint]. Zenodo.
 https://doi.org/10.5281/zenodo.20148907
 ```
 
-**On webpages, CVs, "latest version" pointers** — cite the concept DOI:
-
-```
-Loh, C. S. (2026). Praxichnology: Naming the field that reads footprints in
-designed environments — from serious games to AI [Preprint]. Zenodo.
-https://doi.org/10.5281/zenodo.20148906
-```
-
-## DOI mirrors
-
-| Archive | Version DOI (v1.0) | Concept DOI |
-|---|---|---|
-| **Zenodo** | [10.5281/zenodo.20148907](https://doi.org/10.5281/zenodo.20148907) | [10.5281/zenodo.20148906](https://doi.org/10.5281/zenodo.20148906) |
-| **EdArXiv** | [10.35542/osf.io/x4n7u_v1](https://doi.org/10.35542/osf.io/x4n7u_v1) | [10.35542/osf.io/x4n7u](https://doi.org/10.35542/osf.io/x4n7u) |
+Also archived on [EdArXiv](https://doi.org/10.35542/osf.io/x4n7u_v1) for discoverability within education research; the two records are linked and resolve to identical content.
 
 ## Files
 
