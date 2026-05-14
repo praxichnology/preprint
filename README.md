@@ -19,7 +19,6 @@ Also archived on [EdArXiv](https://doi.org/10.35542/osf.io/x4n7u_v1) for discove
 - `praxichnology_v1.md` — canonical source (Markdown)
 - `praxichnology_v1.pdf` — rendered PDF (the version submitted to EdArXiv and Zenodo)
 - `praxichnology.mp3` — audio pronunciation guide for the term *praxichnology*
-- `render_pdf.py` — script used to render the PDF from Markdown (reproducibility)
 - `LICENSE` — Creative Commons Attribution 4.0 International (CC-BY 4.0)
 
 ## License
