@@ -100,7 +100,7 @@ The field is named **praxichnology** (*prax-ichno-logy*), from three Greek roots
 
 A second clarification, equally important: the coinage is the compound *praxis* + *ichnos*, not a praxis-tradition derivative with a suffix tacked on. What praxichnology names is the study of *footprints* or *traces left by purposeful action*, and the ***ichnos*** element is doing as much work in the coinage as the ***praxis*** element. A reader who mentally splits the word as *praxi-chnology* and infers a Freirean lineage has misread the morphological seam; the seam falls between ***praxis*** and ***ichnos***, and the field name should be read as *prax-ichno-logy* (etymologically *praxis-ichno-logy*) — the study (-logy) of traces (ichnos) of purposeful action (praxis).
 
-**Pronunciation:** prak-SIK-no-LO-jee.
+**Pronunciation:** prak-SIK-no-LO-jee. ([audio](https://github.com/praxichnology/preprint/raw/main/praxichnology.mp3))
 
 **Grammatical forms:** the adjective is *praxichnological*. A practitioner is a *praxichnologist*.
 
