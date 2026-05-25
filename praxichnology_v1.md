@@ -4,7 +4,7 @@
 
 ¹ Southern Illinois University, Carbondale, IL, USA
 
-**Correspondence:** [csloh@siu.edu](mailto:csloh@siu.edu)
+**Correspondence:** [ORCID 0000-0002-6318-3890](https://orcid.org/0000-0002-6318-3890)
 
 **Preprint version 1.0** · Filed 2026-05-06 · License: CC-BY 4.0
 
