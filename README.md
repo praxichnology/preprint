@@ -42,4 +42,6 @@ This work is released under the [Creative Commons Attribution 4.0 International 
 
 - **v1.0** (2026-05-12) — DOI-minted release. Submitted to EdArXiv 2026-05-08; Zenodo DOI minted 2026-05-12.
 
-No substantive revision is anticipated. v1.0 is the canonical statement of the term coinage and the field's foundational architecture. Corrigenda (typos, broken links, citation errors) may produce minor versioned updates; substantive theoretical content does not. The forthcoming foundational book chapter is its own citable work, not a revision of this preprint.
+v1.0 is the **coinage paper**: the citable record of the term's introduction and the anchor for priority. It is not expected to be reissued — substantive developments of the field are published as new works, not as revisions of this record; only corrigenda (typos, broken links, citation errors) would warrant a minor versioned update.
+
+The forthcoming foundational book chapter revises and extends this preprint and is its own citable work. Its principal addition is *mousikē praxichnology* — reading MIDI, MPE, and related performance traces to infer the development of musical skill and expertise — with a corresponding on-ramp for music education researchers and performance pedagogues. It is **not** issued as a new version of this record: the Zenodo DOI remains the citation for the coinage paper. On publication, this record will point to the chapter, which should then be cited for the substantive account of the field.
